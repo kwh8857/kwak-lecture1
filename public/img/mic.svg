@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="21" viewBox="0 0 15 21">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H15V21H0z" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g id="prefix__Icon_Interface_Headphones" data-name="Icon / Interface / Headphones">
+        <g id="prefix__Icon_Interface_Headphones-2" data-name="Icon / Interface / Headphones">
+            <path id="prefix__Shape" d="M8.572 21H6.429v-3.608A7.63 7.63 0 0 1 1.9 14.9 7.384 7.384 0 0 1 0 10h1.822a5.5 5.5 0 0 0 1.73 4.042 5.759 5.759 0 0 0 7.9 0A5.5 5.5 0 0 0 13.179 10H15a7.384 7.384 0 0 1-1.9 4.9 7.629 7.629 0 0 1-4.532 2.487V21zM7.5 13A3.386 3.386 0 0 1 4 9.75v-6.5A3.386 3.386 0 0 1 7.5 0 3.386 3.386 0 0 1 11 3.25l-.012 6.5A3.379 3.379 0 0 1 7.5 13z" style="fill:#36e6cc"/>
+        </g>
+    </g>
+</svg>

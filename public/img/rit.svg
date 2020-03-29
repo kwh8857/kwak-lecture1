@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="89" viewBox="0 0 44 89">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H44V89H0z" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g id="prefix__Icon_Interface_Arrow_Green_Hover" data-name="Icon / Interface / Arrow Green Hover">
+        <g id="prefix__Icon_Interface_Arrow_Hover" data-name="Icon / Interface / Arrow Hover" transform="translate(-1 -.5)">
+            <g id="prefix__Icon_Interface_Arrow_Basic_Copy" data-name="Icon / Interface / Arrow Basic Copy" transform="rotate(180 22.628 45)">
+                <rect id="prefix__Rectangle" width="44" height="89" rx="2" transform="translate(.256 .5)" style="opacity:.04"/>
+                <path id="prefix__Icon_Interface_Arrow_Basic" d="M2.6 19L19.764 1.838A1.076 1.076 0 0 0 18.242.317L.317 18.242a1.072 1.072 0 0 0 0 1.521l17.925 17.918A1.082 1.082 0 0 0 19 38a1.049 1.049 0 0 0 .757-.319 1.072 1.072 0 0 0 0-1.521L2.6 19z" data-name="Icon / Interface / Arrow Basic" transform="translate(12.256 26)" style="fill:#23dbb9"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.19" height="41.993" viewBox="0 0 22.19 41.993">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H22.19V41.993H0z" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g id="prefix__Icon_Interface_Arrow_Basic_White" data-name="Icon / Interface / Arrow Basic White">
+        <g id="prefix__Icon_Interface_Arrow_Basic_White-2" data-name="Icon / Interface / Arrow Basic White" transform="translate(-.295)">
+            <path id="prefix__Icon_Interface_Arrow_Basic" d="M2.875 21L21.84 2.031A1.189 1.189 0 0 0 20.159.35L.35 20.159a1.184 1.184 0 0 0 0 1.681l19.809 19.8a1.2 1.2 0 0 0 .836.352 1.159 1.159 0 0 0 .836-.352 1.184 1.184 0 0 0 0-1.681L2.875 21z" data-name="Icon / Interface / Arrow Basic" transform="translate(.295)" style="fill:#e4f1fd"/>
+        </g>
+    </g>
+</svg>

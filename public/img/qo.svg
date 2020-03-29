@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="29.622" viewBox="0 0 31 29.622">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H31V29.622H0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#75fed0;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__Icon_Illustration_Green_Book" data-name="Icon / Illustration / Green / Book">
+        <g id="prefix__Icon_Illustration_Green_Book-2" data-name="Icon / Illustration / Green / Book" transform="translate(0 -.378)">
+            <g id="prefix__Layer_1">
+                <path id="prefix__Shape" d="M15.5 3.194c-7.088-7.186-15.5 0-15.5 0v23.571s8.412-7.186 15.5 0" class="prefix__cls-3" transform="translate(0 .378)"/>
+                <path id="prefix__Shape-2" d="M0 26.765c7.088-7.186 15.5 0 15.5 0V3.194s-8.412-7.186-15.5 0v23.571z" class="prefix__cls-3" data-name="Shape" transform="translate(15.5 .378)"/>
+                <path id="prefix__Shape-3" d="M0 3.194s8.412-7.186 15.5 0" class="prefix__cls-3" data-name="Shape" transform="translate(0 26.806)"/>
+                <path id="prefix__Shape-4" d="M15.5 3.194s-8.412-7.186-15.5 0" class="prefix__cls-3" data-name="Shape" transform="translate(15.5 26.806)"/>
+                <path id="prefix__Shape-5" d="M0 2.032s5.355-4.571 9.864 0" class="prefix__cls-3" data-name="Shape" transform="translate(2.818 5.561)"/>
+                <path id="prefix__Shape-6" d="M0 2.032s5.355-4.571 9.864 0" class="prefix__cls-3" data-name="Shape" transform="translate(2.818 12.068)"/>
+                <path id="prefix__Shape-7" d="M0 2.032s5.355-4.571 9.864 0" class="prefix__cls-3" data-name="Shape" transform="translate(2.818 19.211)"/>
+                <path id="prefix__Shape-8" d="M0 2.032s5.355-4.571 9.864 0" class="prefix__cls-3" data-name="Shape" transform="translate(18.318 5.561)"/>
+                <path id="prefix__Shape-9" d="M0 2.032s5.355-4.571 9.864 0" class="prefix__cls-3" data-name="Shape" transform="translate(18.318 12.068)"/>
+                <path id="prefix__Shape-10" d="M0 2.032s5.355-4.571 9.864 0" class="prefix__cls-3" data-name="Shape" transform="translate(18.318 19.211)"/>
+            </g>
+        </g>
+    </g>
+</svg>

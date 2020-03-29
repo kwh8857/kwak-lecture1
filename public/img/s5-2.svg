@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.168" height="38.17" viewBox="0 0 19.168 38.17">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H19.168V38.17H0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#75fed0;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__Icon_Illustration_Green_Vine" data-name="Icon / Illustration / Green / Vine">
+        <g id="prefix__Icon_Illustration_Green_Vine-2" data-name="Icon / Illustration / Green / Vine">
+            <g id="prefix__Layer_1">
+                <path id="prefix__Shape" d="M19.167 17.84a9.387 9.387 0 0 1-9.375 9.543h-.109A9.655 9.655 0 0 1 0 17.84V0h19.167z" class="prefix__cls-3"/>
+                <path id="prefix__Shape-2" d="M0 2.5A8.97 8.97 0 0 1 10 .839c5.833 2.606 9.167.83 9.167.83" class="prefix__cls-3" data-name="Shape" transform="translate(0 9.948)"/>
+                <path id="prefix__Shape-3" d="M0 0v10.787" class="prefix__cls-3" data-name="Shape" transform="translate(10 27.383)"/>
+                <path id="prefix__Shape-4" d="M0 0h18.333" class="prefix__cls-3" data-name="Shape" transform="translate(.833 38)"/>
+            </g>
+        </g>
+    </g>
+</svg>

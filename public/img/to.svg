@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.098" height="31.222" viewBox="0 0 31.098 31.222">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H31.098V31.222H0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#75fed0;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__Icon_Illustration_Green_Note" data-name="Icon / Illustration / Green / Note">
+        <g id="prefix__Icon_Illustration_Green_Note-2" data-name="Icon / Illustration / Green / Note">
+            <g id="prefix__Layer_1">
+                <path id="prefix__Shape" d="M24.086 6.611l.458-2.056L4.508 0 0 20.242l8.822 2" class="prefix__cls-3"/>
+                <path id="prefix__Shape-2" d="M0 5.358L6.025 0" class="prefix__cls-3" data-name="Shape" transform="translate(23.533 6.836)"/>
+                <ellipse id="prefix__Oval" cx=".505" cy=".511" class="prefix__cls-3" rx=".505" ry=".511" transform="rotate(-45 22.516 -31.76)"/>
+                <path id="prefix__Rectangle-path" d="M0 0H20.534V20.746H0z" class="prefix__cls-3" transform="scale(-1) rotate(75.83 14.546 -22.652)"/>
+                <path id="prefix__Shape-3" d="M0 3.622L12.892 0" class="prefix__cls-3" data-name="Shape" transform="translate(12.07 15.088)"/>
+                <path id="prefix__Shape-4" d="M0 2.894L9.307 0" class="prefix__cls-3" data-name="Shape" transform="translate(13.505 20.153)"/>
+                <path id="prefix__Shape-5" d="M0 0l7.871 1.45" class="prefix__cls-3" data-name="Shape" transform="translate(7.063 5.685)"/>
+            </g>
+        </g>
+    </g>
+</svg>
