@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.601" height="31.601" viewBox="0 0 31.601 31.601">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H31.601V31.601H0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#75fed0;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__Icon_Illustration_Green_Nuclear" data-name="Icon / Illustration / Green / Nuclear">
+        <g id="prefix__Icon_Illustration_Green_Nuclear-2" data-name="Icon / Illustration / Green / Nuclear" transform="translate(-.392 -.507)">
+            <g id="prefix__Layer_1">
+                <path id="prefix__Oval" d="M21 21C29.035 12.964 33.106 4.007 30.093.994s-11.97 1.058-20.006 9.093S-2.02 27.079.994 30.093 12.964 29.035 21 21" class="prefix__cls-3" transform="translate(.907 .507)"/>
+                <path id="prefix__Oval-2" d="M30.093 30.093c3.013-3.013-1.058-11.97-9.093-20.006S4.007-2.02.994.994 2.052 12.964 10.087 21s16.992 12.107 20.006 9.093" class="prefix__cls-3" data-name="Oval" transform="translate(.392 1.022)"/>
+                <circle id="prefix__Oval-3" cx="3" cy="3" r="3" class="prefix__cls-3" data-name="Oval" transform="translate(13 14)"/>
+            </g>
+        </g>
+    </g>
+</svg>

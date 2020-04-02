@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="37.53" viewBox="0 0 31 37.53">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H31V37.53H0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#75fed0;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__Icon_Illustration_Green_Bag" data-name="Icon / Illustration / Green / Bag">
+        <g id="prefix__Icon_Illustration_Green_Bag-2" data-name="Icon / Illustration / Green / Bag" transform="translate(0 -.812)">
+            <g id="prefix__Layer_1">
+                <rect id="prefix__Rectangle-path" width="24.474" height="34.263" class="prefix__cls-3" rx="3.73" transform="translate(3.263 4.079)"/>
+                <path id="prefix__Shape" d="M0 3.267a4.079 4.079 0 0 1 7.995 0" class="prefix__cls-3" transform="translate(11.503 .812)"/>
+                <path id="prefix__Shape-2" d="M0 0h24.474" class="prefix__cls-3" data-name="Shape" transform="translate(3.263 30)"/>
+                <path id="prefix__Shape-3" d="M0 0v4.895" class="prefix__cls-3" data-name="Shape" transform="translate(15 28.553)"/>
+                <path id="prefix__Shape-4" d="M0 1h24.474" class="prefix__cls-3" data-name="Shape" transform="translate(3.263 11)"/>
+                <path id="prefix__Rectangle-path-2" d="M0 0H2.447V1.632H0z" class="prefix__cls-3" data-name="Rectangle-path" transform="translate(8.158 11.421)"/>
+                <path id="prefix__Rectangle-path-3" d="M0 0H2.447V1.632H0z" class="prefix__cls-3" data-name="Rectangle-path" transform="translate(20.395 11.421)"/>
+                <path id="prefix__Shape-5" d="M0 0h.6a2.659 2.659 0 0 1 2.663 2.659v20.787A2.659 2.659 0 0 1 .6 26.105H0" class="prefix__cls-3" data-name="Shape" transform="translate(27.737 8.158)"/>
+                <path id="prefix__Shape-6" d="M3.263 0h-.6A2.659 2.659 0 0 0 0 2.659v20.787a2.659 2.659 0 0 0 2.659 2.659h.6" class="prefix__cls-3" data-name="Shape" transform="translate(0 8.158)"/>
+            </g>
+        </g>
+    </g>
+</svg>
