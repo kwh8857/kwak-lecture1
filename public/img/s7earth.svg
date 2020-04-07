@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.985" height="52" viewBox="0 0 51.985 52">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H51.985V52H0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#1a82ff;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__Icon_Illustration_Blue_Globus" data-name="Icon / Illustration / Blue / Globus">
+        <g id="prefix__Icon_Illustration_Blue_Globus-2" data-name="Icon / Illustration / Blue / Globus">
+            <g id="prefix__Layer_1">
+                <path id="prefix__Shape" d="M3.81 39.547A26 26 0 0 1 45.048 8.3" class="prefix__cls-3" transform="translate(0 .018)"/>
+                <path id="prefix__Shape-2" d="M38.017 0A26 26 0 0 1 0 34.467" class="prefix__cls-3" data-name="Shape" transform="translate(9.801 11.881)"/>
+                <path id="prefix__Shape-3" d="M.43 0A90.388 90.388 0 0 0 0 9.043c0 14.357 3.041 26 6.783 26 3.131 0 5.777-8.15 6.545-19.217" class="prefix__cls-3" data-name="Shape" transform="translate(19.217 16.957)"/>
+                <path id="prefix__Shape-4" d="M11.564 21.478C11.01 9.281 8.275 0 4.883 0 2.962 0 1.232 3.063 0 7.981" class="prefix__cls-3" data-name="Shape" transform="translate(21.117)"/>
+                <ellipse id="prefix__Oval" cx="18.087" cy="26" class="prefix__cls-3" rx="18.087" ry="26" transform="translate(7.913)"/>
+                <circle id="prefix__Oval-2" cx="4.522" cy="4.522" r="4.522" class="prefix__cls-3" data-name="Oval" transform="translate(2.261 38.435)"/>
+                <circle id="prefix__Oval-3" cx="4.522" cy="4.522" r="4.522" class="prefix__cls-3" data-name="Oval" transform="translate(15.826 7.913)"/>
+                <circle id="prefix__Oval-4" cx="5.652" cy="5.652" r="5.652" class="prefix__cls-3" data-name="Oval" transform="translate(27.13 21.478)"/>
+                <circle id="prefix__Oval-5" cx="2.261" cy="2.261" r="2.261" class="prefix__cls-3" data-name="Oval" transform="translate(44.087 7.913)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,890 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-color: #181e2d;
+}
+
+img {
+  width: 100%;
+}
+
+ul,
+li,
+ol {
+  padding: 0;
+  list-style: none;
+}
+
+.all > div {
+  width: 100%;
+}
+
+.all > div > div {
+  margin: 0 auto;
+  max-width: 1440px;
+  height: 100%;
+}
+
+.all .scroll {
+  position: fixed;
+  right: 66px;
+  top: 50%;
+  -webkit-transform: translateY(50%);
+          transform: translateY(50%);
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: (1fr)[5];
+      grid-template-rows: repeat(5, 1fr);
+  row-gap: 20px;
+}
+
+.all .scroll .scrollpack {
+  width: 20px;
+  height: 20px;
+  border-radius: 19px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.all .scroll .circle {
+  width: 8px;
+  height: 8px;
+  opacity: 0.2;
+  background-color: #c9d8e3;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
+.all .scroll .active {
+  border: solid 1px #75fed0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.all .scroll .active .circle {
+  width: 12px;
+  height: 12px;
+  border-radius: 12px;
+  background-color: #75fed0;
+  opacity: 1;
+}
+
+.all .section1 {
+  background-image: url(./backgroundImage/section1_background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.all .section1 .section1pack {
+  padding-top: 51px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.all .section1 .section1pack .header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.all .section1 .section1pack .header .header2 {
+  margin: 0 auto;
+}
+
+.all .section1 .section1pack .header .header3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.all .section1 .section1pack .header .header3 .cart {
+  font-size: 17px;
+  line-height: 1.35;
+  text-align: left;
+  color: #ffffff;
+}
+
+.all .section1 .section1pack .header .header3 .btn {
+  margin-left: 10px;
+  width: 25px;
+  height: 25px;
+  background-color: #23dbb9;
+  border-radius: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.all .section1 .section1pack .header .header3 .btn .one {
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+  margin: 0 auto;
+}
+
+.all .section1 .section1pack .title {
+  font-size: 56px;
+  font-weight: 300;
+  line-height: 1.16;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 152px;
+}
+
+.all .section1 .section1pack .tablet1 {
+  margin: 0 auto;
+  margin-top: 104.5px;
+}
+
+.all .section2 .section2pack {
+  padding-top: 108px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.all .section2 .section2pack > .title {
+  font-size: 46px;
+  color: #ffffff;
+  font-weight: 300;
+  text-align: center;
+}
+
+.all .section2 .section2pack .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.all .section2 .section2pack .content .tablet2 {
+  margin-top: 97px;
+}
+
+.all .section2 .section2pack .content .right {
+  margin-top: 67px;
+  margin-left: 72px;
+}
+
+.all .section2 .section2pack .content .right .area {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.all .section2 .section2pack .content .right .area .asset .circle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 32px;
+  border: solid 1px #75fed0;
+}
+
+.all .section2 .section2pack .content .right .area .asset .circle .number {
+  font-size: 16px;
+  color: #ffffff;
+  margin: 0 auto;
+}
+
+.all .section2 .section2pack .content .right .area .bar {
+  margin: 0 auto;
+  width: 1px;
+  height: 200px;
+  opacity: 0.1;
+  background-color: #d0e5ff;
+}
+
+.all .section2 .section2pack .content .right .area .text {
+  margin-left: 15px;
+}
+
+.all .section2 .section2pack .content .right .area .text .texttitle {
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.all .section2 .section2pack .content .right .area .text .subtitle {
+  margin-top: 7px;
+  font-size: 14px;
+  opacity: 0.8;
+  color: #d0e5ff;
+  text-align: left;
+}
+
+.all .section3 {
+  background-image: url(./backgroundImage/section3_background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+}
+
+.all .section3 .section3pack {
+  padding-top: 216px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.all .section3 .section3pack .title {
+  font-size: 46px;
+  font-weight: 300;
+  color: #ffffff;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.all .section3 .section3pack .content {
+  text-align: center;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.all .section3 .section3pack .content .leftarrow {
+  width: 22.2px;
+  height: 42px;
+  opacity: 0.2;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.all .section3 .section3pack .content .leftarrow:hover {
+  opacity: 1;
+}
+
+.all .section3 .section3pack .content .subtitle {
+  line-height: 1.76;
+  opacity: 0.6;
+  font-size: 17px;
+  color: #d0e5ff;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.all .section3 .section3pack .content .rightarrow {
+  opacity: 0.2;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.all .section3 .section3pack .content .rightarrow:hover {
+  opacity: 1;
+}
+
+.all .section3 .section3pack .btn {
+  width: 232px;
+  height: 54px;
+  border-radius: 100px;
+  background-color: #1a82ff;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 46.6px;
+}
+
+.all .section3 .section3pack .btn .btncontent {
+  font-size: 15px;
+  color: #ffffff;
+  line-height: 1.53;
+  margin-left: 22px;
+}
+
+.all .section3 .section3pack .btn .asset {
+  margin-left: 28px;
+}
+
+.all .section3 .section3pack .explore {
+  text-align: center;
+  font-size: 16px;
+  color: #d0e5ff;
+  opacity: 0.8;
+  font-weight: 300;
+  margin-top: 144.5px;
+}
+
+.all .section4 {
+  border: solid 1px #212a3e;
+  background-color: #1a2234;
+}
+
+.all .section4 .section4pack {
+  padding-top: 98px;
+  margin-bottom: 109px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.all .section4 .section4pack .maintitle {
+  font-size: 46px;
+  color: #ffffff;
+  font-weight: 300;
+  text-align: center;
+}
+
+.all .section4 .section4pack .title {
+  font-size: 30px;
+  color: #ffffff;
+  line-height: 1.13;
+  text-align: left;
+}
+
+.all .section4 .section4pack .subtitle {
+  font-size: 16px;
+  opacity: 0.8;
+  text-align: left;
+  color: #d0e5ff;
+}
+
+.all .section4 .section4pack .days {
+  font-size: 12px;
+  color: #ffffff;
+  font-weight: 500;
+  text-align: left;
+}
+
+.all .section4 .section4pack .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 83px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.all .section4 .section4pack .content .left .title {
+  margin-top: 24px;
+}
+
+.all .section4 .section4pack .content .left .subtitle {
+  margin-top: 40px;
+}
+
+.all .section4 .section4pack .content .left .learnmore {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 32px;
+}
+
+.all .section4 .section4pack .content .left .learnmore .learn {
+  opacity: 0.8;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.56;
+  text-align: center;
+  color: #75fed0;
+}
+
+.all .section4 .section4pack .content .left .learnmore .asset {
+  margin-left: 8.3px;
+}
+
+.all .section4 .section4pack .content .right > div > div {
+  margin-left: 30px;
+}
+
+.all .section4 .section4pack .content .right .days {
+  margin-top: 19px;
+}
+
+.all .section4 .section4pack .content .right .title {
+  margin-top: 12px;
+}
+
+.all .section4 .section4pack .content .right .subtitle {
+  margin-top: 13px;
+}
+
+.all .section4 .section4pack .content .right .top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.all .section4 .section4pack .content .right .bottom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 45px;
+}
+
+.all .section5 .section5pack {
+  padding-top: 80px;
+  padding-bottom: 38px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 999;
+}
+
+.all .section5 .section5pack .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.all .section5 .section5pack .content .right {
+  margin-left: 128px;
+  margin-top: 118px;
+}
+
+.all .section5 .section5pack .content .right .title {
+  font-size: 46px;
+  font-weight: 300;
+  color: #ffffff;
+  text-align: left;
+}
+
+.all .section5 .section5pack .content .right .java {
+  font-size: 12px;
+  text-align: left;
+  color: #36e6cc;
+  font-weight: 500;
+}
+
+.all .section5 .section5pack .content .right .subtitle {
+  opacity: 0.8;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.56;
+  text-align: left;
+  color: #d0e5ff;
+  margin-top: 32px;
+}
+
+.all .section5 .section5pack .content .right .icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 29px;
+  cursor: pointer;
+}
+
+.all .section5 .section5pack .content .right .icon .facebook {
+  margin-left: 18.4px;
+}
+
+.all .section5 .section5pack .content .right .icon .twitter {
+  margin-left: 22px;
+}
+
+.all .section5 .section5pack .content .right .icon .instar {
+  margin-left: 23px;
+}
+
+.all .section5 .section5pack .content .right .icon .be {
+  margin-left: 24.1px;
+}
+
+.all .section5 .section5pack .human {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-grid-columns: (74px)[6];
+      grid-template-columns: repeat(6, 74px);
+  margin-top: 47px;
+  -webkit-column-gap: 135px;
+          column-gap: 135px;
+}
+
+.all .section5 .section5pack .human .girl1 img {
+  opacity: 0.1;
+}
+
+.all .section5 .section5pack .human img {
+  width: 74px;
+  height: 74px;
+  cursor: pointer;
+  opacity: 0.2;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  z-index: 999;
+}
+
+.all .section5 .section5pack .human img:hover {
+  opacity: 1;
+  padding: 11px;
+  border-radius: 74px;
+  border: solid 1px #d0e5ff;
+}
+
+.all .section6 {
+  height: 675px;
+  background-color: #1a2234;
+}
+
+.all .section6 .section6pack {
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-top: 100px;
+  padding-bottom: 127px;
+}
+
+.all .section6 .section6pack .title {
+  font-size: 46px;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+.all .section6 .section6pack .human {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (90px)[5];
+      grid-template-columns: repeat(5, 90px);
+  -webkit-column-gap: 60px;
+          column-gap: 60px;
+  margin-top: 75px;
+}
+
+.all .section6 .section6pack .human img {
+  width: 90px;
+  height: 90px;
+  opacity: 0.2;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.all .section6 .section6pack .human img:hover {
+  opacity: 1;
+}
+
+.all .section6 .section6pack .subtitle {
+  margin-top: 63px;
+  opacity: 0.6;
+  color: #d0e5ff;
+  font-size: 17px;
+}
+
+.all .section6 .section6pack .name {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 56px;
+}
+
+.all .section6 .section6pack .apple {
+  color: #d0e5ff;
+  opacity: 0.8;
+  font-size: 14px;
+  margin-top: 3px;
+}
+
+.all .section7 {
+  height: 409px;
+}
+
+.all .section7 .section7pack {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-top: 72.2px;
+  padding-bottom: 91.2px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.all .section7 .section7pack .left {
+  width: 360px;
+  height: 230px;
+  border-radius: 4px;
+  border: solid 1px #707070;
+  background-color: #1d2536;
+  position: relative;
+  z-index: 1;
+}
+
+.all .section7 .section7pack .left > div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.all .section7 .section7pack .left .garageplan {
+  width: 45.8px;
+  height: 45.8px;
+  margin-top: 53.2px;
+}
+
+.all .section7 .section7pack .left .title {
+  font-size: 30px;
+  color: #ffffff;
+  margin-top: 37px;
+}
+
+.all .section7 .section7pack .left .subtitle {
+  opacity: 0.8;
+  color: #d0e5ff;
+  font-size: 16px;
+  font-weight: 300;
+  margin-top: 7px;
+}
+
+.all .section7 .section7pack .left::before {
+  content: "";
+  background-image: url(./backgroundImage/s7antenna.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.01;
+  position: absolute;
+  z-index: -1;
+  left: 34px;
+  width: 293px;
+  height: 230px;
+}
+
+.all .section7 .section7pack .mid {
+  width: 384px;
+  height: 245.7px;
+  background-image: url(./backgroundImage/s7midbackimg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 18px;
+  text-align: center;
+}
+
+.all .section7 .section7pack .mid .staterplan {
+  width: 52px;
+  height: 52px;
+  margin: 0 auto;
+  margin-top: 58.8px;
+}
+
+.all .section7 .section7pack .mid .title {
+  font-size: 28px;
+  line-height: 1.21;
+  color: #000000;
+  margin-top: 29px;
+}
+
+.all .section7 .section7pack .mid .subtitle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.all .section7 .section7pack .mid .subtitle .from {
+  opacity: 0.8;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.56;
+  color: #000000;
+}
+
+.all .section7 .section7pack .mid .subtitle .money {
+  font-size: 17px;
+  line-height: 1.76;
+  color: #2eb6ff;
+  margin-left: 5.5px;
+}
+
+.all .section7 .section7pack .right {
+  width: 360px;
+  height: 230px;
+  border-radius: 4px;
+  border: solid 1px #707070;
+  background-color: #1d2536;
+  position: relative;
+  z-index: 1;
+  margin-left: 18px;
+  text-align: center;
+}
+
+.all .section7 .section7pack .right .businessplan {
+  width: 46px;
+  height: 46px;
+  margin: 0 auto;
+  margin-top: 52px;
+}
+
+.all .section7 .section7pack .right .title {
+  font-size: 30px;
+  color: #ffffff;
+  margin-top: 37px;
+}
+
+.all .section7 .section7pack .right .subtitle {
+  opacity: 0.8;
+  color: #d0e5ff;
+  font-size: 16px;
+  font-weight: 300;
+  margin-top: 7px;
+}
+
+.all .section7 .section7pack .right::before {
+  content: "";
+  background-image: url(./backgroundImage/s7triangle.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.01;
+  position: absolute;
+  z-index: -1;
+  left: 34px;
+  width: 293px;
+  height: 230px;
+}
+
+.all .section8 {
+  height: 645px;
+  background-color: #1a2234;
+}
+
+.all .section8 .section8pack {
+  padding-top: 99px;
+  padding-bottom: 100px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.all .section8 .section8pack .content {
+  text-align: center;
+}
+
+.all .section8 .section8pack .content .title {
+  font-size: 46px;
+  font-weight: 300;
+  line-height: 1.17;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.all .section8 .section8pack .content .subtitle {
+  opacity: 0.6;
+  font-size: 17px;
+  line-height: 1.76;
+  color: #d0e5ff;
+}
+
+.all .section8 .section8pack .content .btn {
+  margin: 0 auto;
+  width: 232px;
+  height: 54px;
+  border-radius: 100px;
+  background-color: #1a82ff;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 43.5px;
+  margin-bottom: 82.5px;
+}
+
+.all .section8 .section8pack .content .btn .btntitle {
+  font-size: 15px;
+  line-height: 1.53;
+  color: #ffffff;
+}
+
+.all .section8 .section8pack .content .btn .btnasset {
+  margin-left: 28px;
+}
+
+.all .section8 .section8pack .backimg {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 127.5px 123px 100px 105px 88px 147px;
+      grid-template-columns: 127.5px 123px 100px 105px 88px 147px;
+  -webkit-column-gap: 88px;
+          column-gap: 88px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 29px;
+  opacity: 0.3;
+}
+
+.all .underbar {
+  height: 100px;
+}
+
+.all .underbar .underbarpack {
+  padding-top: 41px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.all .underbar .underbarpack .days {
+  opacity: 0.8;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.56;
+  color: #d0e5ff;
+}
+
+.all .underbar .underbarpack .icon {
+  display: -ms-grid;
+  display: grid;
+  margin-left: 859.5px;
+  -ms-grid-columns: 23.6px 16px 17px 15.9px 19px;
+      grid-template-columns: 23.6px 16px 17px 15.9px 19px;
+  -webkit-column-gap: 23px;
+          column-gap: 23px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=lecture6.css.map */

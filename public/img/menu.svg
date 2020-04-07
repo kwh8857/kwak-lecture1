@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" viewBox="0 0 20 14">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H20V14H0z" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g id="prefix__Icon_Interface_Menu" data-name="Icon / Interface / Menu">
+        <g id="prefix__Icon_Interface_Menu-2" data-name="Icon / Interface / Menu">
+            <path id="prefix__Icon" d="M0 14v-2h20v2zm0-6V6h20v2zm0-6V0h20v2z" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>
